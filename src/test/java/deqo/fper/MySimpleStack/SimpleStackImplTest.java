@@ -8,6 +8,7 @@ import static org.junit.Assert.*;
 public class SimpleStackImplTest {
     SimpleStack simpleStack;
 
+    //f
     @Test
     public void isEmpty() {
         simpleStack = new SimpleStackImpl();
